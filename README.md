@@ -7,4 +7,4 @@ Tool for producing high quality forecasts for time series data that has multiple
 - historical trend changes, for instance due to product launches or logging changes
 - trends that are non-linear growth curves, where a trend hits a natural limit or saturates
 
-Expriment for MNAO Project
+Experiment for Prediction Project
